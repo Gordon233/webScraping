@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^7.0.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^19.7.2",
+    "sharp": "^0.31.3",
+    "until": "^0.1.1"
+  }
+}
